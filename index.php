@@ -14,6 +14,8 @@
     <?php require 'partials/_navbar.php' ?>
     <div class="container">
           <h2 class="text-center"><strong>Welcome to FOR-UM || Discuss Your Queries .</strong></h2>
+
+
     </div>
 
     <!-- Optional JavaScript; choose one of the two! -->
